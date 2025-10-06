@@ -1,0 +1,129 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🤖 BOT TCR FINANCE - INÍCIO RÁPIDO                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+✅ JÁ ESTÁ CONFIGURADO COM SUAS INFORMAÇÕES!
+
+📱 WhatsApp: (63) 98102-8933
+🏢 Empresa: TCR FINANCE LTDA
+💳 PIX: Copia e Cola (configurado)
+📍 Localização: Curitiba
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 COMO USAR (3 PASSOS):
+
+1️⃣ UPLOAD NO REPLIT
+   → Acesse: https://replit.com/
+   → Faça login
+   → Crie projeto Node.js
+   → Arraste TODOS os arquivos
+
+2️⃣ INSTALAR
+   → Abra o Shell (painel inferior)
+   → Digite: npm install
+   → Aguarde 1-2 minutos
+
+3️⃣ RODAR
+   → Digite: npm start
+   → Ou clique no botão "Run"
+   → QR Code vai aparecer!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 ESCANEAR QR CODE:
+
+1. Pegue o celular (63) 98102-8933
+2. Abra WhatsApp
+3. Vá em: Configurações > Aparelhos conectados
+4. Toque: "Conectar aparelho"
+5. Escaneie o QR Code
+
+✅ PRONTO! Bot conectado!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 MANTER ONLINE 24/7:
+
+Opção 1: Clique em "Deploy" (topo)
+Opção 2: Ative "Always On" (Settings)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💬 COMO FUNCIONA:
+
+Cliente envia: "Oi"
+Bot responde: Mensagem com instruções + PIX
+
+Cliente envia: Foto do comprovante
+Bot responde: "Comprovante recebido!"
+
+VOCÊ recebe: Notificação no WhatsApp (63) 98102-8933
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 VER COMPROVANTES:
+
+No Replit:
+→ Painel "Files" (esquerda)
+→ Pasta "comprovantes/"
+→ Clique na imagem
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐛 PROBLEMAS:
+
+QR Code não aparece?
+→ Ctrl+C (parar)
+→ rm -rf .wwebjs_auth
+→ npm start
+
+Bot desconecta?
+→ Ative "Always On"
+→ Ou faça "Deploy"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💰 CUSTOS:
+
+Trial: 7 dias GRÁTIS 🎉
+Depois: $20/mês (~R$ 100)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ CHECKLIST:
+
+[ ] Upload no Replit
+[ ] npm install
+[ ] npm start
+[ ] Escaneei QR Code
+[ ] Bot conectou
+[ ] Ativei Always On ou Deploy
+[ ] Testei enviando "oi"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 ARQUIVOS:
+
+index.js           → Código principal (JÁ CONFIGURADO!)
+package.json       → Dependências
+.replit           → Config automática
+README.md         → Documentação completa
+INICIO_RAPIDO.txt → Este arquivo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 TEMPO TOTAL: 5-10 MINUTOS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎉 ESTÁ PRONTO PARA USAR!
+
+Tudo já configurado com suas informações!
+É só fazer upload e rodar!
+
+BOA SORTE COM AS VENDAS! 💰🚀
+
+TCR FINANCE LTDA

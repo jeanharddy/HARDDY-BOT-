@@ -1,0 +1,10 @@
+run = "npm start"
+entrypoint = "index.js"
+hidden = [".config", ".wwebjs_auth", "node_modules"]
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "npm start"]
+deploymentTarget = "cloudrun"
