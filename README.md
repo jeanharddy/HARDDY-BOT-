@@ -10,7 +10,7 @@ Todas as suas informações já estão no código:
 
 - ✅ **PIX Copia e Cola:** Configurado
 - ✅ **WhatsApp:** (63) 98102-8933
-- ✅ **Empresa:** TCR FINANCE LTDA
+- ✅ **Empresa:** HARDDY COMPANY
 - ✅ **Mensagens:** Personalizadas
 
 **Você NÃO precisa editar nada!**
